@@ -1,234 +1,257 @@
+<!-- Main Green Theme: #008000 -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Md.%20Mizanur%20Rahman&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descAlignY=58&descColor=a0a8d0&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001A00,50:008000,100:00B300&text=Md.%20Mizanur%20Rahman&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20•%20API%20Architect%20•%20Problem%20Solver&descAlignY=58&descColor=E8FFE8&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=7C8CF8&center=true&vCenter=true&multiline=true&width=650&height=60&lines=Building+production-grade+APIs+with+Django+%26+FastAPI;1%2C200%2B+DSA+problems+%E2%80%A2+Codeforces+%7C+LeetCode+%7C+GFG;Open+to+backend+roles+%26+open-source+collaboration)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=008000&center=true&vCenter=true&width=780&lines=Building+Scalable+Backend+Systems+with+Django+%26+FastAPI;AWS+%7C+Docker+%7C+Redis+%7C+Celery+%7C+PostgreSQL;1%2C200%2B+DSA+Problems+Solved+Across+Platforms;Open+to+Backend+Engineering+and+Open+Source+Collaboration"/>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizanur-rahman-255879261/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mizanmd92782@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mizan92782/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/mizan92782)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mizanmd92782/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mizan92782)
+<a href="https://www.linkedin.com/in/mizanur-rahman-255879261/">
+  <img src="https://img.shields.io/badge/LinkedIn-001A00?style=for-the-badge&logo=linkedin&logoColor=008000"/>
+</a>
+
+<a href="mailto:mizanmd92782@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-001A00?style=for-the-badge&logo=gmail&logoColor=008000"/>
+</a>
+
+<a href="https://github.com/Mizanur92782">
+  <img src="https://img.shields.io/badge/GitHub-001A00?style=for-the-badge&logo=github&logoColor=008000"/>
+</a>
+
+<a href="https://leetcode.com/u/mizan92782/">
+  <img src="https://img.shields.io/badge/LeetCode-001A00?style=for-the-badge&logo=leetcode&logoColor=008000"/>
+</a>
+
+<a href="https://codeforces.com/profile/mizan92782">
+  <img src="https://img.shields.io/badge/Codeforces-001A00?style=for-the-badge&logo=codeforces&logoColor=008000"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/mizanmd92782/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-001A00?style=for-the-badge&logo=geeksforgeeks&logoColor=008000"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+<h1 align="center">About Me</h1>
 
 ```yaml
-name:       Md. Mizanur Rahman
-role:       Backend Developer @ Softvence Innovation
-location:   Dhaka, Bangladesh 🇧🇩
-education:  B.Sc. CSE — Port City International University (2025)
+name: Md. Mizanur Rahman
+
+role: Backend Developer
+company: Softvence Innovation
+
+location: Dhaka, Bangladesh 🇧🇩
+
+education:
+  degree: B.Sc in Computer Science & Engineering
+  university: Port City International University
+  graduation: 2025
 
 focus:
-  - Designing & scaling RESTful APIs with Django & FastAPI
-  - Async task processing with Celery + Redis
-  - Cloud infrastructure on AWS (EC2, S3, ECR)
-  - Multi-tenant SaaS architecture
-  - Competitive programming & DSA
+  - Scalable REST APIs with Django & FastAPI
+  - Async systems using Celery & Redis
+  - AWS cloud deployment & backend architecture
+  - Competitive Programming & DSA
 
 currently_learning:
-  - System Design & Distributed Systems
-  - Advanced AWS architecture patterns
-  - Microservices with Docker & Kubernetes
+  - Distributed Systems
+  - Kubernetes & Microservices
+  - Advanced AWS Architecture
+  - High-performance backend engineering
 
-open_to: Backend engineering roles & open-source collaboration
+open_to:
+  - Backend Engineering Roles
+  - Open Source Collaboration
 ```
 
-<br/>
+---
 
-## ⚡ Tech Stack
+<h1 align="center">Tech Stack</h1>
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,dart&theme=dark"/>
 
-**Backend & APIs**
+<br/><br/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+### Backend & APIs
 
-**Auth & Payments**
+<img src="https://skillicons.dev/icons?i=django,fastapi,redis,postgres&theme=dark"/>
 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
-![OAuth](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<br/><br/>
 
-**Databases**
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark"/>
 
-**DevOps & Cloud**
+<br/><br/>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,git&theme=dark"/>
 
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+<h1 align="center">Problem Solving</h1>
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+<td align="center" width="250">
 
-Full-featured e-commerce backend with **product management**, **order processing**, **promo codes**, **wallet**, **AI recommendations**, **Stripe payments** with webhooks, and **Locust load testing**.
+<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="60"/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782/kilian_rohde_backend)
+### LeetCode
+# **350+**
+
+<sub>Data Structures & Algorithms</sub>
 
 </td>
-<td width="50%" valign="top">
 
-### 🏋️ Fitness & Wellness App Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
-![Google OAuth](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<td align="center" width="250">
 
-Fitness platform with **tour**, **explore**, **gamified reward system** (CSV-driven levels), **health check**, **payment integration**, and **GitHub Actions CI/CD** pipelines.
+<img src="https://cdn.simpleicons.org/codeforces/008000" height="60"/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782/benkelly864_backend)
+### Codeforces
+# **400+**
+
+<sub>Max Rating: <b>897</b></sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🏢 Multi-Tenant SaaS Platform
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+<td align="center" width="250">
 
-Enterprise-grade **multi-tenant** SaaS backend with isolated tenant environments, **owner management**, **site admin**, tenant-aware routing, and permission scoping.
+<img src="https://cdn.simpleicons.org/geeksforgeeks/008000" height="60"/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782/sacha_backend)
+### GeeksforGeeks
+# **420+**
+
+<sub>Core CS Concepts</sub>
 
 </td>
-<td width="50%" valign="top">
 
-### 🔮 Astrology & Tarot App Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+<td align="center" width="250">
 
-Backend for an astrology platform with **horoscope**, **tarot**, **AI conversation**, **payment**, **webhook automation**, and full **Render + Docker** production deployment.
+<img src="https://cdn.simpleicons.org/codechef/008000" height="60"/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782/zarbazan1_backend)
+### Others
+# **100+**
+
+<sub>Various Challenges</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎓 E-Learning Platform Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-
-LMS backend with **degree & enrollment**, **gamification**, **progress tracking**, **practitioner management**, **Stripe payments**, **notifications**, and **AWS** deployment.
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mizanur92782/lifecgoice_backend)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 More Coming Soon...
-
-Currently building:
-- ⚙️ Microservices architecture
-- 📡 WebSocket real-time features
-- 🤖 ML model deployment via FastAPI
-- ☸️ Kubernetes orchestration
-
-</td>
 </tr>
 </table>
-</div>
 
 <br/>
 
-## 📊 Problem Solving
-
-<div align="center">
-
-| Platform | Solved | Highlight |
-|:---|:---:|:---|
-| 🟡 LeetCode | **350+** | Data Structures & Algorithms |
-| 🔵 Codeforces | **400+** | Max Rating: **897** |
-| 🟢 GeeksforGeeks | **420+** | Core CS Concepts |
-| ⚪ Others | **100+** | Various Challenges |
-| **Total** | **1,200+** | **and counting...** |
+<img src="https://github-profile-trophy.vercel.app/?username=Mizanur92782&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 
 </div>
 
-<br/>
+---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizanur92782&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizanur92782&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+<h1 align="center">GitHub Analytics</h1>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mizanur92782&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizanur92782&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=001A00&title_color=008000&icon_color=008000&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizanur92782&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=001A00&title_color=008000&text_color=FFFFFF"/>
 
 </div>
 
 <br/>
 
-## 📬 Let's Connect
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mizanur92782&theme=highcontrast&background=001A00&ring=008000&fire=008000&currStreakLabel=008000&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=CCFFCC&dates=CCFFCC&hide_border=true"/>
+
+</div>
+
+---
+
+<h1 align="center">Current Goals</h1>
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 📧 | [mizanmd92782@gmail.com](mailto:mizanmd92782@gmail.com) |
-| 💼 | [LinkedIn](https://www.linkedin.com/in/mizanur-rahman-255879261/) |
-| 📍 | Dhaka, Bangladesh |
-| 🟢 | **Open to backend opportunities** |
+<table>
+<tr>
 
-<br/>
+<td align="center" width="300">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+<img src="https://cdn.simpleicons.org/docker/008000" height="45"/>
+
+### Backend Systems
+
+<sub>Building scalable production-grade APIs.</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://cdn.simpleicons.org/kubernetes/008000" height="45"/>
+
+### System Design
+
+<sub>Learning distributed systems & architecture.</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://cdn.simpleicons.org/codeforces/008000" height="45"/>
+
+### Competitive Coding
+
+<sub>Practicing advanced DSA every day.</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<h1 align="center">Connect With Me</h1>
+
+<div align="center">
+
+<a href="mailto:mizanmd92782@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-001A00?style=for-the-badge&logo=gmail&logoColor=008000"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mizanur-rahman-255879261/">
+  <img src="https://img.shields.io/badge/LinkedIn-001A00?style=for-the-badge&logo=linkedin&logoColor=008000"/>
+</a>
+
+<a href="https://github.com/Mizanur92782">
+  <img src="https://img.shields.io/badge/GitHub-001A00?style=for-the-badge&logo=github&logoColor=008000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>CODE • LEARN • BUILD • REPEAT</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00B300,50:008000,100:001A00"/>
 
 </div>
